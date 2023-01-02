@@ -1,0 +1,9 @@
+fonts.mk filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+README.android filter=lfs diff=lfs merge=lfs -text
+Roboto-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+RobotoStatic-Regular.ttf filter=lfs diff=lfs merge=lfs -text
